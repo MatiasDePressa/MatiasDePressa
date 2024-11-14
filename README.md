@@ -29,7 +29,7 @@ Additionally, I have experience in video game development using Unity. As proof,
 
 ## <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> GitHub Analitics:
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 lign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasDePressa&layout=compact&theme=shadow_red" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasDePressa&layout=compact&theme=shadow_red" />
   </a>
 
   <a href="https://github.com/anuraghazra/convoychat">
