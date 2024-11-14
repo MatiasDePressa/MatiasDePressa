@@ -28,7 +28,13 @@ Additionally, I have experience in video game development using Unity. As proof,
 
 
 ## <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> GitHub Analitics:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasDePressa&langs_count=3&theme=shadow_red) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasDePressa&show_icons=true&theme=shadow_red&text_color=#FFFFFF)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasDePressa&layout=compact&theme=shadow_red" />
+  </a>
 
-
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasDePressa&show_icons=true&theme=shadow_red&text_color=#FFFFFF" />
+  </a>
+</div>
           
