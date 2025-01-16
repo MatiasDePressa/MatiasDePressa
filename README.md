@@ -31,9 +31,3 @@ Additionally, I have experience in video game development using Unity. As proof,
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasDePressa&layout=compact&theme=shadow_red" />
   </a>
-
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasDePressa&show_icons=true&theme=shadow_red&text_color=#FFFFFF" />
-  </a>
-</div>
-          
